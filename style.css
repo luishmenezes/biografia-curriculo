@@ -40,8 +40,7 @@ main{
 
 .container{
   width: 100%;
-  margin-left: auto;
-  margin-right: auto;
+  
   padding: 30px;
 }
 
@@ -53,8 +52,6 @@ main{
   font-size: 30px;
   text-align: center;
   color: #F2FFFC;
-
-  
   display: flex;
   justify-content: space-between; 
   width: 60%;
@@ -77,9 +74,12 @@ main{
 
 .minha-foto{
   
-  border-left: 10px solid black;
-  border-bottom: 10px solid black;
+  height: 400px;
+  width: 300px;
   box-sizing: border-box;
+  float:left;
+  width: 25%;
+  padding-right: 20px;
 }
 
 footer{
