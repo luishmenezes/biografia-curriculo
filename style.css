@@ -103,8 +103,9 @@ footer{
 .certificados{
 flex-direction: row;
 
+
 }
 
 .imagemCertificados{
-  padding:40px;
+  padding:50px;
 }
