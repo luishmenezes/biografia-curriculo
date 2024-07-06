@@ -3,12 +3,15 @@ body, div, h1, h2, ul, li, aside,  nav {
   padding: 0;
   border: 0;
 }
-p{
+main p {
   margin: 20px 0 ;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 h1,h2{
   font-family: 'Open Sans', sans-serif;
+ 
 }
 
 body{
@@ -29,8 +32,6 @@ main{
   padding: 25px;
   border-bottom: 10px  solid black;
   text-align: center;
-
-
 }
 
 .subtitulo{
